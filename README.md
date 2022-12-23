@@ -26,6 +26,10 @@ Users should be able to:
 
 ![](images/screenshot.webp)
 
+- Hover Effects
+
+![](images/active-states.webp)
+
 ### Links
 
 - [Fron End Mentor solution](https://www.frontendmentor.io/solutions/order-summary-component-css-XjcwJRyZHQ)

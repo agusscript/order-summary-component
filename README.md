@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - [Fron End Mentor solution](https://www.frontendmentor.io/solutions/order-summary-component-css-XjcwJRyZHQ)
-- [Live site](https://agusscript.github.io/Order-summary-component/)
+- [Live site](https://codepen.io/agusscript/pen/MWqdBYq?editors=1100)
 
 ## My process
 
